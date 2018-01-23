@@ -10,8 +10,10 @@ BiliRoku是是B站（bilibili）直播内容录制工具。
 房间号就是看直播的网址：http://live.bilibili.com/xxxxx
 里面xxxxx的数字。
 
-作者：Zyzsdy
+原作者：Zyzsdy
 （主页 http://zyzsdy.com/biliroku)
+分支：hugefiver
+（项目 https://github.com/hugefiver/biliroku）
 
 运行平台: .NET framework 4.0以上
 
