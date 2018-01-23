@@ -12,8 +12,9 @@ BiliRoku是是B站（bilibili）直播内容录制工具。
 
 原作者：Zyzsdy
 （主页 http://zyzsdy.com/biliroku)
+
 分支：hugefiver
-（项目 https://github.com/hugefiver/biliroku）
+（项目 https://github.com/hugefiver/biliroku ）
 
 运行平台: .NET framework 4.0以上
 
